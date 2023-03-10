@@ -1,0 +1,27 @@
+/* whyChoose */
+.whyChoose {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.wcBox {
+    text-align: center;
+    padding: 30px;
+    border-radius: 12px;
+    
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+}
+.wcBox:hover {
+    position: relative;
+    box-shadow: 0px 80px 80px rgb(49 49 49 / 8%);
+    border-color: #fff;
+}
+.wcBox > h3 {
+    font-weight: 700;
+    font-size: 20px;
+    color: #191727;
+    margin-top: 1.5rem;
+    margin-bottom: 1rem;
+}
+/* /whyChoose */
