@@ -1,0 +1,8 @@
+@media  screen and (max-width: 785px) and (min-width:328px){
+    .content_about h1{
+        font-size: 10px;
+    }
+    .content_about p{
+        font-size: 10px;
+    }
+}
