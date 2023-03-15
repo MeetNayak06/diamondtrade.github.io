@@ -1,11 +1,40 @@
-@media screen and (max-width: 785px) and (min-width:328px){
-    .content_about h1{
-        font-size: 10px;
+@media (max-width: 553px) {
+    .content_about_1{
+        top: 30%;
+        left: 50%;
     }
-    .content_about p{
-        font-size: 10px;
+    .content_about_1 h1{
+        font-size: 15px;
     }
 }
+@media (max-width: 381px) {
+    .content_about{
+        top: 40%;
+        left: 50%;
+    }
+    .content_about h1{
+        font-size: 15px;
+    }
+}
+@media (max-width: 320px) {
+    .content_about{
+        top: 30%;
+        left: 50%;
+    }
+    .content_about h1{
+        font-size: 10px;
+    }   
+}
+
+.content_about{
+    
+    top: 50%;
+    left: 50%;
+    transform: translate(0%,-150%);
+    text-align: center;
+   
+    
+}
 .content_about h1{
-    font-size: 50px;
+    color: #fff;
 }
