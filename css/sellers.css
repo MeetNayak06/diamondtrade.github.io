@@ -27,3 +27,7 @@
 .content_about h1{
     color: #fff;
 }
+
+.btn-square{
+    padding: 0;
+}

@@ -68,6 +68,9 @@ img, svg {
     border-radius: 12px;
     padding: 0.82rem 1.65rem;
 }
+.btn-square{
+    padding: 0;
+}
 .form-holder {
       display: flex;
       flex-direction: column;

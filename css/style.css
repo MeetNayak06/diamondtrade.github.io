@@ -109,18 +109,21 @@
     outline: none;
     border-radius: 12px;
 }
+
 .navbar .navbar-nav .nav-item a:hover{
     background-color:#18244e;
-    border: 1px solid #fff;
+    border: 1px  #fff;
     color: #ffffff;
     font-size: 18px;
     border-radius: 12px;
     transition: 0.8s;
 }
 
-
 .text-white{
     color: #000;
+}
+.btn-square{
+    padding: 0;
 }
 
 /* .navbar .navbar-nav .nav-link:hover,
