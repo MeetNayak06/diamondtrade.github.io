@@ -45,7 +45,7 @@ html, body {
 }
 .dia-tra.diTw {
     top: 70px;
-    right: -7px;
+    right: 0px;
     opacity: 0.8;
 }
 img, svg {
